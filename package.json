@@ -1,0 +1,17 @@
+{
+  "name": "sslocal",
+  "version": "0.1.0",
+  "author": "Pat Allan (https://freelancing-gods.com)",
+  "description": "Make local environment SSL as streamlined as possible.",
+  "main": "lib/sslocal.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pat/sslocal-js.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pat/sslocal-js/issues"
+  },
+  "homepage": "https://github.com/pat/sslocal-js"
+}
