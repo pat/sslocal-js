@@ -13,7 +13,7 @@ Please **do not use this gem in production environments** - it's only meant for 
 ```json
 "devDependencies": {
   // ...
-  "sslocal": "~0.1",
+  "@pat/sslocal": "~0.1",
   // ...
 }
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "sslocal",
+  "name": "@pat/sslocal",
   "version": "0.1.0",
   "author": "Pat Allan (https://freelancing-gods.com)",
   "description": "Make local environment SSL as streamlined as possible.",
