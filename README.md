@@ -2,13 +2,13 @@
 
 SSLocal helps to make running SSL in your local Webpack development environment as streamlined as possible.
 
-Please **do not use this gem in production environments** - it's only meant for local development.
+Please **do not use this package in production environments** - it's only meant for local development.
 
 ## Installation
 
 1. Install [mkcert](https://github.com/FiloSottile/mkcert)
 2. Add `config/certificates` to your application's `.gitignore` file.
-3. Add this gem to your application's `package.json` - ideally just for the development environment.
+3. Add this package to your application's `package.json` - ideally just for the development environment.
 
 ```json
 "devDependencies": {
@@ -56,7 +56,7 @@ My knowledge of Webpack is limited, so please do get in touch if you're more fam
 
 ## License
 
-The gem is copyright Pat Allan, 2020, and is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The package is copyright Pat Allan, 2020, and is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Code of Conduct
 
