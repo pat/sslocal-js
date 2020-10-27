@@ -25,7 +25,7 @@ Please **do not use this package in production environments** - it's only meant 
 const environment = require('./environment')
 
 // with
-const sslocal = require('sslocal')
+const sslocal = require('@pat/sslocal')
 const environment = sslocal.apply(require('./environment'))
 ```
 
