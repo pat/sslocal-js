@@ -1,6 +1,6 @@
 {
   "name": "@pat/sslocal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Pat Allan (https://freelancing-gods.com)",
   "description": "Make local environment SSL as streamlined as possible.",
   "main": "lib/sslocal.js",

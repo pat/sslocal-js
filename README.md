@@ -13,7 +13,7 @@ Please **do not use this package in production environments** - it's only meant 
 ```json
 "devDependencies": {
   // ...
-  "@pat/sslocal": "~0.1",
+  "@pat/sslocal": "~0.2",
   // ...
 }
 ```
