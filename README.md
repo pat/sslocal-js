@@ -13,7 +13,7 @@ Please **do not use this package in production environments** - it's only meant 
 ```json
 "devDependencies": {
   // ...
-  "@pat/sslocal": "~0.2",
+  "@pat/sslocal": "~0.3",
   // ...
 }
 ```
@@ -27,6 +27,8 @@ const environment = require('./environment')
 // with
 const sslocal = require('@pat/sslocal')
 const environment = sslocal.apply(require('./environment'))
+// or, if you're using webpack-dev-server v4+
+const environment = sslocal.apply(require('./environment'), 4)
 ```
 
 5. Otherwise, use the same approach wherever else you're generating your Webpack configuration. (If you have ideas on how to improve this, please do get in touch!)
